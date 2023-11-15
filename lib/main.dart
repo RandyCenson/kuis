@@ -6,7 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+  // enta line code yang mana buat error pada flutter
   @override
   Widget build(BuildContext context) {
     // final List<String> img = [
